@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build output and Roblox files you may keep locally
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+!releases/*.rbxm
+!releases/*.rbxmx
+
+# Logs and temp files
+*.log
+*.tmp
